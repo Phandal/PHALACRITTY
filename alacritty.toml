@@ -1,59 +1,59 @@
 # Github Dark High Contrast
-[colors.bright]
-black = "0x9ea7b3"
-blue = "0x91cbff"
-cyan = "0x39c5cf"
-green = "0x4ae168"
-magenta = "0xcb9eff"
-red = "0xffb1af"
-white = "0xd9dee3"
-yellow = "0xf7c843"
+[colors.primary]
+background = '0x0a0c10'
+foreground = '0xf0f3f6'
 
 [colors.cursor]
-cursor = "0xf0f3f6"
-text = "0x0a0c10"
+text = '0x0a0c10'
+cursor = '0xf0f3f6'
 
 [colors.normal]
-black = "0x7a828e"
-blue = "0x71b7ff"
-cyan = "0x39c5cf"
-green = "0x26cd4d"
-magenta = "0xcb9eff"
-red = "0xff9492"
-white = "0xd9dee3"
-yellow = "0xf0b72f"
+black = '0x7a828e'
+red = '0xff9492'
+green = '0x26cd4d'
+yellow = '0xf0b72f'
+blue = '0x71b7ff'
+magenta = '0xcb9eff'
+cyan = '0x39c5cf'
+white = '0xd9dee3'
 
-[colors.primary]
-background = "0x0a0c10"
-foreground = "0xf0f3f6"
+[colors.bright]
+black = '0x9ea7b3'
+red = '0xffb1af'
+green = '0x4ae168'
+yellow = '0xf7c843'
+blue = '0x91cbff'
+magenta = '0xcb9eff'
+cyan = '0x39c5cf'
+white = '0xd9dee3'
 
-# Gruvbox
-#[colors]
-#draw_bold_text_with_bright_colors = true
-#
-#[colors.bright]
-#black = "0x928374"
-#blue = "0x83a598"
-#cyan = "0x8ec07c"
-#green = "0xb8bb26"
-#magenta = "0xd3869b"
-#red = "0xfb4934"
-#white = "0xebdbb2"
-#yellow = "0xfabd2f"
-#
-#[colors.normal]
-#black = "0x282828"
-#blue = "0x458588"
-#cyan = "0x689d6a"
-#green = "0x98971a"
-#magenta = "0xb16286"
-#red = "0xcc241d"
-#white = "0xa89984"
-#yellow = "0xd79921"
-#
-#[colors.primary]
-#background = "0x282828"
-#foreground = "0xebdbb2"
+# # Gruvbox Colorscheme
+# [colors]
+# draw_bold_text_with_bright_colors = true
+# 
+# [colors.bright]
+# black = "0x928374"
+# blue = "0x83a598"
+# cyan = "0x8ec07c"
+# green = "0xb8bb26"
+# magenta = "0xd3869b"
+# red = "0xfb4934"
+# white = "0xebdbb2"
+# yellow = "0xfabd2f"
+# 
+# [colors.normal]
+# black = "0x282828"
+# blue = "0x458588"
+# cyan = "0x689d6a"
+# green = "0x98971a"
+# magenta = "0xb16286"
+# red = "0xcc241d"
+# white = "0xa89984"
+# yellow = "0xd79921"
+# 
+# [colors.primary]
+# background = "0x282828"
+# foreground = "0xebdbb2"
 
 [cursor.style]
 blinking = "On"
