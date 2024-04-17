@@ -64,7 +64,7 @@ TERM = "st-256color"
 
 [font]
 builtin_box_drawing = false
-size = 12.0
+size = 10.0
 
 [font.bold]
 family = "Iosevka Nerd Font Mono"
@@ -90,6 +90,7 @@ y = 0
 dynamic_padding = true
 opacity = 1.0
 option_as_alt = "Both"
+#option_as_alt = "Both"
 
 [window.padding]
 x = 0
