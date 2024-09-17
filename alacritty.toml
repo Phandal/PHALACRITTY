@@ -157,23 +157,23 @@ TERM = "st-256color"
 
 [font]
 builtin_box_drawing = false
-size = 10.0
+size = 14.0
 
 [font.bold]
-family = "Iosevka Nerd Font Mono"
+family = "FiraCode Nerd Font"
 
 [font.bold_italic]
-family = "Iosevka Nerd Font Mono"
+family = "FiraCode Nerd Font"
 
 [font.glyph_offset]
 x = 0
 y = 0
 
 [font.italic]
-family = "Iosevka Nerd Font Mono"
+family = "FiraCode Nerd Font"
 
 [font.normal]
-family = "Iosevka Nerd Font Mono"
+family = "FiraCode Nerd Font"
 
 [font.offset]
 x = 0
