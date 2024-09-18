@@ -149,7 +149,7 @@ white   = '#d3c6aa'
 # foreground = "0xebdbb2"
 
 [cursor.style]
-blinking = "On"
+blinking = "on"
 shape = "Block"
 
 [env]
