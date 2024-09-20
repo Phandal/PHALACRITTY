@@ -157,7 +157,7 @@ TERM = "st-256color"
 
 [font]
 builtin_box_drawing = false
-size = 14.0
+size = 12.0
 
 [font.bold]
 family = "FiraCode Nerd Font"
