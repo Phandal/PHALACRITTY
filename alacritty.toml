@@ -154,9 +154,10 @@ shape = "Block"
 
 [env]
 TERM = "st-256color"
+WINIT_X11_SCALE_FACTOR = "0.75"
 
 [font]
-builtin_box_drawing = false
+builtin_box_drawing = true
 size = 12.0
 
 [font.bold]
@@ -188,3 +189,8 @@ option_as_alt = "Both"
 [window.padding]
 x = 0
 y = 0
+
+[keyboard]
+bindings = [
+  { key = "F11", mods = "None", action = "ToggleFullscreen" }
+]
